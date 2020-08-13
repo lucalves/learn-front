@@ -18,3 +18,10 @@ Name of project | Date of finish | Technologies used
 Name of project | Level | Description
 ---------------- | -------| --------------
 [Bikcraft](#) | Easy | Basic level project developed using the Origamid course. A simple layout, with a header, body and footer.
+
+## Name of courses
+
+Name of project | Date of finish | Technologies used
+---------------- | ---------------- | --------------
+[JavaScript: introdução a Orientação a Objetos](#) | 13/08/2020 | JS (100%)
+[JavaScript: Interfaces e Herança em Orientação a Objetos](#) | 13/08/2020 | JS (100%)
