@@ -1,6 +1,6 @@
 # Learning JS
 
-> Actually, I developed 1 project.
+**Actually, I developed: 1 Project and 2 Courses**
 
 The repository is organized by:
 
