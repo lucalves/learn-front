@@ -1,4 +1,4 @@
-# Learning JS
+# Learn HTML, CSS & JS
 
 ## Identifiers
 
