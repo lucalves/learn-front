@@ -1,27 +1,17 @@
 # Learning JS
 
-**Actually, I developed: 1 Project and 2 Courses**
+## Identifiers
 
-The repository is organized by:
+Project | Identify | Date of finish | Technologies used
+---------------- | ---------------- | -------------- | --------------
+[Bikcraft](#) | Project | 19/03/2020 | CSS (52.7%), HTML (44.9%) e JS (2.4%)
+[JavaScript: introdução a Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
+[JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 
-- Name of projects
-- Brief description of each project
-
-## Name of projects
-
-Name of project | Date of finish | Technologies used
----------------- | ---------------- | --------------
-[Bikcraft](#) | 19/03/2020 | CSS (52.7%), HTML (44.9%) e JS (2.4%)
-
-## Brief description of each project
+## Description
 
 Name of project | Level | Description
 ---------------- | -------| --------------
 [Bikcraft](#) | Easy | Basic level project developed using the Origamid course. A simple layout, with a header, body and footer.
-
-## Name of courses
-
-Name of project | Date of finish | Technologies used
----------------- | ---------------- | --------------
-[JavaScript: introdução a Orientação a Objetos](#) | 13/08/2020 | JS (100%)
-[JavaScript: Interfaces e Herança em Orientação a Objetos](#) | 13/08/2020 | JS (100%)
+[JavaScript: Introdução a Orientação a Objetos](#) | Easy | Basic course to understand object orientation paradigms.
+[JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Easy | Basic course to understand herance and object orientation concepts.
