@@ -2,7 +2,7 @@
 
 ## Identifiers
 
-Project | Identify | Date of finish | Technologies used
+Project | Identify | Finish | Technologies used
 ---------------- | ---------------- | -------------- | --------------
 [Bikcraft](#) | Project | 19/03/2020 | CSS (52.7%), HTML (44.9%) e JS (2.4%)
 [JavaScript: introdução a Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
