@@ -1,6 +1,6 @@
-# Learning HTML, CSS & JS
+## Learning HTML, CSS & JS
 
-## Identifiers
+### Identifiers
 
 Project | Identify | Finish | Technologies used
 ---------------- | ---------------- | -------------- | --------------
@@ -9,7 +9,7 @@ Project | Identify | Finish | Technologies used
 [JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 [Jasmine: Tests with NodeJS](#) | Course | 24/08/2020 | JS (100%)
 
-## Description
+### Description
 
 Name of project | Level | Description
 ---------------- | -------| --------------
