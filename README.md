@@ -1,4 +1,4 @@
-## Learning HTML, CSS & JS
+## Learn Front-end Development
 
 ### Identifiers
 
