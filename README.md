@@ -8,6 +8,7 @@ Project | Identify | Finish | Technologies used
 [JavaScript: introdução a Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 [JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 [Jasmine: Tests with NodeJS](#) | Course | 24/08/2020 | JS (100%)
+[Advancing with Javascript](#) | Course | Not finished yet | JS (100%)
 
 ### Description
 
@@ -17,3 +18,4 @@ Name of project | Level | Description
 [JavaScript: Introdução a Orientação a Objetos](#) | Easy | Basic course to understand object orientation paradigms.
 [JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Easy | Basic course to understand herance and object orientation concepts.
 [Jasmine: Tests with NodeJS](#) | Intermediate | Intermediate course to understand tests in Javascript with Jasmine Framework.
+[Advancing with Javascript](#) | Advanced | Advanced course to understand Javascript with practice.
