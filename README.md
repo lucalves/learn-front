@@ -8,7 +8,7 @@ Project | Identify | Finish | Technologies used
 [JavaScript: introdução a Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 [JavaScript: Interfaces e Herança em Orientação a Objetos](#) | Course | 13/08/2020 | JS (100%)
 [Jasmine: Tests with NodeJS](#) | Course | 24/08/2020 | JS (100%)
-[Advancing with Javascript](#) | Course | Not finished yet | JS (100%)
+[Advancing with Javascript](#) | Course | 28/11/2020 | JS (100%)
 
 ### Description
 
