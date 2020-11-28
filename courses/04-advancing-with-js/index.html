@@ -36,16 +36,28 @@
 
             <button onclick="updateData()" class="btn btn-default">Save</button>
             <button onclick="resetForm()" class="btn btn-default">Cancel</button>
-
           </span>
 
-          <button id="btnAdd" onclick="addData()" class="btn btn-default">Submit</button>
+          <span id="btnAdd">
+            <button id="btnAdd" onclick="addData()" class="btn btn-default">Submit</button>
+            <button id="btnReset" onclick="resetForm()" class="btn btn-default">Reset</button>
+            <button id="btnReset" onclick="deleteList()" class="btn btn-default">Delete all Itens</button>
+          </span>
+
         </div>
+
+        <div id="error" style="display: none;"></div>
 
         <table id="listTable" class="table">
 
         </table>
       </div>
+
+      <nav class="navbar navbar-default navbar-fixed-bottom">
+        <div class="container">
+              <h4 class="text-center text-success">Total: <span id="totalValue">$ 0,00</span></h4>
+        </div>
+      </nav>
 
       <script src="js/config.js"></script>
       <script src="js/main.js"></script>
