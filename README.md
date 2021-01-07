@@ -1,4 +1,4 @@
-## Learn Front-end Development
+## Front-end Development
 
 ### Identifiers
 
